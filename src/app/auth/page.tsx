@@ -19,7 +19,7 @@ const page = async () => {
         />
         <div className="flex flex-col gap-2 px-4 xl:ml-40 text-center md:text-start font-semibold">
           <Image
-            src={"/sounds/Unnamed dddd.png"}
+            src={"/sounds/unnamed dddd.png"}
             alt="Versaluu Logo"
             width={763}
             height={173}
