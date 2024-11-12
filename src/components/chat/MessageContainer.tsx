@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import ChatBottomBar from "./ChatBottomBar";
-import ChatTopBar from "./ChatTopBar";
+import ChatTopbar from "./ChatTopBar";
 import MessageList from "./MessageList";
 import { useSelectedUser } from "@/store/useSelectedUser";
 
